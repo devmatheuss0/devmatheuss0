@@ -1,3 +1,4 @@
+
 ### Olá eu sou o Matheus Silva 🤟
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.matheuscs@gmail.com
@@ -7,7 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusss0_/
 )
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatheuss0&show_icons=true&theme=tokyonight)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatheuss0&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheuss0&layout=compact)](https://github.com/devmatheuss0/github-readme-stats)
 
 ### Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/>
