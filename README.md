@@ -20,5 +20,5 @@
 <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div> <br/>
 
-Sou apaixonado por tecnologia e computador desde que me conheço por gente.
-Desenvolvedor Front-end, utilizando: HTML5, CSS3 e JavaScript.
+
+Desenvolvedor Front-end, utilizando: HTML5, CSS3, JavaScript e React.
