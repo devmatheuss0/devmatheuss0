@@ -21,4 +21,5 @@
 </div> <br/>
 
 
-Desenvolvedor Front-end, utilizando: HTML5, CSS3, JavaScript e React.
+Desenvolvedor Front-end, utilizando: JavaScript / TypeScript, React.js, Vue.js, Angular, jQuery, HTML5, CSS3, Bootstrap 4, SASS
+
