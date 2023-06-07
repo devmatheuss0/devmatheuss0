@@ -1,8 +1,8 @@
 
 ### Olá eu sou o Matheus Silva 🤟
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devmatheuss0&show_icons=true&theme=tokyonight)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheuss0&layout=compact)](https://github.com/devmatheuss0/github-readme-stats)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscs0&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscs0&layout=compact)](https://github.com/devmatheuss0/github-readme-stats)
 
 ### Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/>
@@ -21,5 +21,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusss0_/
 )
 
-Desenvolvedor Front-end, utilizando: JavaScript / TypeScript, React.js, Vue.js, jQuery, HTML5, CSS3.
+Desenvolvedor Front-end, utilizando: JavaScript / TypeScript, React.js, HTML5, CSS3.
 
