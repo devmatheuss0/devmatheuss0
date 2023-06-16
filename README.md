@@ -19,8 +19,13 @@ I started in the programming area last year, and today, at the age of 17, I alre
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&count_private=true&hide_border=true&title_color=f7f7f7&icon_color=f7f7f7&text_color=dfdfdf&bg_color=0c0c0c" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscs0&layout=compact&hide_border=true&title_color=f7f7f7&icon_color=f7f7f7&text_color=dfdfdf&bg_color=0c0c0c" />
 </div>
-
 <br/>
+
+### Technologies:
+
+---
+
+#### Programming Languages
 
 ### Main Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7f7f7&bg_color=0c0c0c)
