@@ -5,7 +5,7 @@
 
 <div align="center">  
  
- [![card](https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![card](https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=default)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
