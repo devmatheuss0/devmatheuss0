@@ -56,22 +56,25 @@ I started in the programming area last year, and today, at the age of 17, I alre
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&bg_color=0c0c0c)
             
  ---
-            
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuscs0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-  
- ---
-
-<div align="center">
-  
+ 
+ #### Reach me
 <a href = "mailto:dev.matheuscs@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmatheussilva0/
 )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusss0_/
 )
+   
+---
+   
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuscs0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+  
+---
+
+
+
  
-</div>  
 
 
 
