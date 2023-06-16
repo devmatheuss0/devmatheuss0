@@ -1,7 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Silva;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=35&center=true&vCenter=true&width=1000&lines=;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+### Welcome to my Profile 
+
+My name is Matheus Silva. I live in Brazil, SP and I'm 17.
+ 
+i am Front End Developer
+
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&count_private=true&hide_border=true&title_color=f7f7f7&icon_color=f7f7f7&text_color=dfdfdf&bg_color=0c0c0c" />
