@@ -4,7 +4,9 @@
 
 
 <div align="center">  
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark)](https://github.com/anuraghazra/github-readme-stats" /> 
+   
+  [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscs0&theme=dark" />
 </div>
 
