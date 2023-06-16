@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Matheus Silva 🤟
 
-
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscs0&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscs0&layout=compact)](https://github.com/devmatheuss0/github-readme-stats)
 
 ### Tecnologias que eu utilizo:
