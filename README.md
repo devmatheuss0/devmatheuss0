@@ -20,7 +20,8 @@
 
 ### Currently Studying
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7&bg_color=0c0c0c)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&bg_color=0c0c0c)            
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&bg_color=0c0c0c)      
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&bgColor=0c0c0c)
    
 ---
 
