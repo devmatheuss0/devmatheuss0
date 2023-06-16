@@ -21,6 +21,18 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
             
 </div>
+            
+#### Stylesheet and Markdown
+    
+![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5)
+![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3)
+
+---
+  
+#### Version Control
+  
+![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git)
+  
 
 <a href = "mailto:dev.matheuscs@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmatheussilva0/
