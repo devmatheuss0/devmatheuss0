@@ -12,15 +12,15 @@
 <br/>
 
 ### Main Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=000000)
             
 ---
 
 #### Stylesheet and Markdown
     
-![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3)
+![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=000000)
+![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=000000)
 
 ---
   
