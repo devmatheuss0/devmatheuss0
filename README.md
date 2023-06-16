@@ -11,21 +11,21 @@
 <br/>
 
 ### Main Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=000000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7f7f7)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7)
             
 ---
 
 #### Stylesheet and Markdown
     
-![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=000000)
-![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=000000)
+![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=f7f7f7)
+![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=f7f7f7)
 
 ---
   
 #### Version Control
   
-![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=f7f7f7)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
             
  ---
