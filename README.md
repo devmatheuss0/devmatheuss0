@@ -10,9 +10,6 @@
 </div>
 
 <br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuscs0&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center>
           
@@ -32,6 +29,12 @@
 #### Version Control
   
 ![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git)
+            
+ ---
+            
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuscs0&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   
 
 <a href = "mailto:dev.matheuscs@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
