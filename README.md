@@ -61,6 +61,7 @@ I started in the programming area last year, and today, at the age of 17, I alre
   <img src="https://github-profile-trophy.vercel.app/?username=matheuscs0&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
+ ---
 
 <div align="center">
   
@@ -69,7 +70,7 @@ I started in the programming area last year, and today, at the age of 17, I alre
 )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusss0_/
 )
-  
+ 
 </div>  
 
 
