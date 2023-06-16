@@ -11,22 +11,30 @@
 <br/>
 
 ### Main Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7f7f7)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7f7f7&bg_color=0c0c0c)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7&bg_color=0c0c0c)
+![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=f7f7f7&bg_color=0c0c0c)
+![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=f7f7f7&bg_color=0c0c0c)
             
+---
+
+### Currently Studying
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7&bg_color=0c0c0c)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&bg_color=0c0c0c)            
+   
 ---
 
 #### Stylesheet and Markdown
     
-![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=f7f7f7)
-![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=f7f7f7)
+![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=f7f7f7&bg_color=0c0c0c)
+![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=f7f7f7&bg_color=0c0c0c)
 
 ---
   
 #### Version Control
   
-![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=f7f7f7)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=f7f7f7&bg_color=0c0c0c)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&bg_color=0c0c0c)
             
  ---
             
