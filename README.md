@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=35&center=true&vCenter=true&width=1000&lines=;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Welcome to my Profile 
+---
 
+### Welcome to my Profile 
 My name is Matheus Silva. I live in Brazil, SP and I'm 17.
  
 i am Front End Developer
