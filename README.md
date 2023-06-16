@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2c30&height=120&section=header"/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff3db&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Silva;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Silva;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&show_icons=true&count_private=true&hide_border=true&title_color=fff3db&icon_color=fff3db&text_color=000000&bg_color=0d1117" alt="" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&show_icons=true&count_private=true&hide_border=true&title_color=f7f7f7&icon_color=f7f7f7&text_color=000000&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscs0&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
