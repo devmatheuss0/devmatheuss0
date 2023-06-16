@@ -6,7 +6,7 @@
 <div align="center">  
 [![card](https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscs0&layout=compact&hide_border=true&title_color=f7f7f7&text_color=ffffff70&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
 <br/>
