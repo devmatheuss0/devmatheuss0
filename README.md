@@ -4,8 +4,7 @@
 
 
 <div align="center">  
-[![card](https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark&show_icons=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuscs0&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
