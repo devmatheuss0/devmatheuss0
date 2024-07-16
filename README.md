@@ -8,10 +8,10 @@
 
 
 ### Welcome to my Profile 
-My name is Matheus Silva. I live in Brazil, SP and I'm 17.
+My name is Matheus Silva. I live in Brazil, SP and I'm 18.
  
-I'm a Junior Front End Developer.
-I started in the programming in 2021, at the age of 17, I already master several languages, like JavaScript, React, TypeScript, Nextjs, NodeJs and acctually Golang
+I'm a Front End Developer.
+I started in the programming in 2021, I already master several languages, like JavaScript, React, TypeScript, Nextjs, NodeJs and acctually Golang
 
 ---
 
