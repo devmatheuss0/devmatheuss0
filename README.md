@@ -29,7 +29,7 @@ I started in the programming in 2021, I already master several languages, like J
 
 ### Main Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7&bg_color=0c0c0c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7f7f7&bg_color=0c0c0c)
@@ -37,12 +37,14 @@ I started in the programming in 2021, I already master several languages, like J
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=f7f7f7&bg_color=0c0c0c)
 ![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=f7f7f7&bg_color=0c0c0c)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
             
 ---
 
 ### Currently Studying
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&bg_color=0c0c0c)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
    
 ---
 
@@ -57,6 +59,7 @@ I started in the programming in 2021, I already master several languages, like J
   
 ![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=f7f7f7&bg_color=0c0c0c)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&bg_color=0c0c0c)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
             
  ---
  
