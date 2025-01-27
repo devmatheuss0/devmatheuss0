@@ -8,7 +8,7 @@
 
 ### Bem vindo ao meu perfil!
 👨‍💻 Sou Matheus Silva, um desenvolvedor de software de 18 anos, dedicado e apaixonado por tecnologia. <br/>
-🎓 Cursando Ciência da Computação em <a href="https://www.usjt.br/" target="blank_">Universidade São Judas Tadeu</a>
+🎓 Cursando Ciência da Computação em <a href="https://www.usjt.br/" target="_blank">Universidade São Judas Tadeu</a>
  
 ---
 
@@ -18,13 +18,12 @@
 </div>
 <br/>
 
-### Technologies:
+### Tecnologias:
 
 ---
 
-#### Programming Languages
-
 ### Main Skills
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,ts,nextjs,react,redux,tailwind&theme=dark)](https://skillicons.dev)
             
 ---
