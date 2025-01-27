@@ -7,7 +7,7 @@
 </div>
 
 ### Bem vindo ao meu perfil!
-👨‍💻 Sou Matheus Silva, um desenvolvedor de software de 18 anos, dedicado e apaixonado por tecnologia. 
+👨‍💻 Sou Matheus Silva, um desenvolvedor de software de 18 anos, dedicado e apaixonado por tecnologia. <br/>
 🎓 Cursando Ciência da Computação em <a href="https://www.usjt.br/" target="blank_">Universidade São Judas Tadeu</a>
  
 ---
