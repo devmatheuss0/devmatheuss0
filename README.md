@@ -2,17 +2,14 @@
 
 <div align="center">
  
- # Be Welcome :) 🖐
+ # Bem vindo :) 🖐
 
 </div>
 
-
-### Welcome to my Profile 
-My name is Matheus Silva. I live in Brazil, SP and I'm 18.
+### Bem vindo ao meu perfil!
+👨‍💻 Sou Matheus Silva, um desenvolvedor de software de 18 anos, dedicado e apaixonado por tecnologia. 
+🎓 Cursando Ciência da Computação em <a href="https://www.usjt.br/" target="blank_">Universidade São Judas Tadeu</a>
  
-I'm a FullStack Developer.
-I started in the programming in 2021, I already master several languages, like Java, Spring, Next.JS, TypeScript, React...
-
 ---
 
 <div align="center">  
@@ -28,34 +25,19 @@ I started in the programming in 2021, I already master several languages, like J
 #### Programming Languages
 
 ### Main Skills
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&bg_color=0c0c0c)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&bg_color=0c0c0c)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=f7f7f7&bg_color=0c0c0c)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+[![My Skills](https://skillicons.dev/icons?i=java,,spring,postgresql,mysql,docker,ts,nextjs,react,redux,tailwind&theme=dark)](https://skillicons.dev)
             
 ---
 
 ### Currently Studying
 
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,rabbitmq&theme=dark)](https://skillicons.dev)
    
----
-
-#### Stylesheet and Markdown
-    
-![html5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=f7f7f7&bg_color=0c0c0c)
-![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=f7f7f7&bg_color=0c0c0c)
-
 ---
   
 #### Version Control
   
-![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=f7f7f7&bg_color=0c0c0c)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&bg_color=0c0c0c)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,postman&theme=dark)](https://skillicons.dev)
             
  ---
  
