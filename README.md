@@ -25,7 +25,7 @@
 #### Programming Languages
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,ts,nextjs,react,redux,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,ts,nextjs,react,redux,tailwind&theme=dark)](https://skillicons.dev)
             
 ---
 
